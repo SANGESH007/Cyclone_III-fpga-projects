@@ -20,7 +20,7 @@ The Quartus last version Which supports Cyclone III FPGA is Intel® Quartus® II
 
 ## Installation and Programming
 
-click on this link and download the software
+click on this [link](https://cdrdv2.intel.com/v1/dl/getContent/666221/666239?filename=Quartus-web-13.1.0.162-windows.tar) and download the software
 
 Create New project Wizard-> Next -> Select the working directory and file name -> give file name -> Next -> In Board select, select Cyclone III -> In available devices, select EP3C120F780C7 -> In simulation Select Modelsim Altera and select Verilog or VHDL -> Next -> Finish
 
