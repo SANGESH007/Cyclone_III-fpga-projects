@@ -32,6 +32,8 @@ After programming, save the file and click Start Compilation.
 
 After successul Compilation, click on Assignment and click Pin Planner. Select the Appropriate Inputs and Outputs as per the Documentation and the connections.
 
+place the pin according to the [Document](https://drive.google.com/drive/folders/1hcbWTk_HhavaNmXQZZA9CjDDyQFLOgkm?usp=sharing)
+
 After completing the pin assignment, Click on Programmer -> Hardware Setup -> Currently selected hardware -> select usb -> close 
 
 Click on Add Files -> in Output Files, select FILENAME.sof -> click start
